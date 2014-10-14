@@ -8,9 +8,9 @@ The script is written in Ruby.
 
 The fields that are generated are:
 
-- Campaign
-- Ad Group
-- Keyword
+1. Campaign
+2. Ad Group
+3. Keyword
 - Criterion Type
 - Headline
 - Description Line 1
